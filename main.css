@@ -10,8 +10,7 @@ body {
 header {
     background-color: rgb(0, 102, 51);
     color: white;
-    padding: 20px,2px,2px,2px;
-  
+    padding-left: 1rem;  
 }
 
 .image{
@@ -21,7 +20,7 @@ header {
 }
 
 .list {
-    border: 2px,2px,2px,2px;
+    padding: 1rem;
     background-color: rgb(0, 102, 51);
     color: white;
 
